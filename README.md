@@ -1,4 +1,4 @@
-# Desafio Automação WEB LINX
+# Automação WEB
 
 projeto para testes automatizados em ambiente WEB criado em Java, Maven, TestNg, Selenium e Cucumber utilizando o padrão DriveFactory
 
